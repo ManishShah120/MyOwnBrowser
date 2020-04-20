@@ -20,7 +20,7 @@ class AddressBar(QLineEdit):
 class App(QFrame):
 	def __init__(self):
 		super().__init__()
-		self.setWindowTitle("Web Browser")
+		self.setWindowTitle("MyOwnBrowser Author: ManishShah120")
 
 		self.setBaseSize(1366, 768)
 		self.setMinimumSize(1280, 1024)
