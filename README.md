@@ -1,2 +1,2 @@
 # MyOwnBrowser
-This is a Web Browser created with PyQt5 Library of Python
+A Web Browser created with PyQt5 Library of Python
